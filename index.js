@@ -11,6 +11,6 @@ function returnsANamedFunction(){
 
 function returnsAnAnonymousFunction(){
     return function(){
-        return "I am ana annonymous function";
+        return "I am an annonymous function";
     }
 }
